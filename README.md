@@ -7,9 +7,9 @@
 </h3>
 
 <p align="center">
-  <a href="mailto:osamahabdo2003@gmail.com"><img src="https://img.shields.io/badge/Email-osamahabdo2003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:osamahabdo2003@gmail.com"><img src="https://img.shields.io/badge/Email-osamahabdo2003%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/osamahabdo" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <img src="https://img.shields.io/badge/Location-Riyadh%2C%20KSA-0055A5?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
 </p>
 
@@ -18,8 +18,8 @@
 ## ⚡ Dynamic Overview & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Osamah's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=osamahabdo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Osamah's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamahabdo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -62,11 +62,6 @@
   - *What it does:* Enterprise-grade desktop system engineered for streamlining book borrowing, return tracking, and automated PDF reporting.
 
 ---
-
-## 📈 GitHub Streak & Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamahabdo2003-arch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=osamahabdo2003-arch&color=00ffcc&style=for-the-badge" alt="Profile Views" />
