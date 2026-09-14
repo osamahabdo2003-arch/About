@@ -65,7 +65,7 @@
 
 ## 📈 GitHub Streak & Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamahabdo2003-arch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <div align="center">
