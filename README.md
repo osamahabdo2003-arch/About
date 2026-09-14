@@ -69,5 +69,5 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00ffcc&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=osamahabdo2003-arch&color=00ffcc&style=for-the-badge" alt="Profile Views" />
 </div>
