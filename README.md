@@ -46,5 +46,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=osamahabdo2003-arch&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
